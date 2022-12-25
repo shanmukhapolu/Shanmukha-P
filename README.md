@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @STAR
+- 👋 Hi, I’m @Shanmukha P
 - 👀 I’m interested in coding HTML and CCS webpages.
 - 🌱 I’m currently learning how to make webpages interactive.
 - 💞️ I’m looking to collaborate on a webpage and I need some help.
